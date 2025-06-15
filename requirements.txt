@@ -1,10 +1,9 @@
-streamlit==1.30.0
-pandas==1.5.3
-numpy==1.23.5
+streamlit==1.45.1
+pandas==2.2.0
+numpy==1.26.4
+scipy==1.13.1
 plotly==6.1.2
-statsmodels==0.14.1
+statsmodels==0.14.2
 mysql-connector-python==8.2.0
 openpyxl==3.1.2
 xlsxwriter==3.1.9
-setuptools==65.5.1
-wheel==0.38.4
