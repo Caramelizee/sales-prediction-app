@@ -1,6 +1,6 @@
 streamlit==1.30.0
 pandas==1.5.3
-numpy==1.26.3
+numpy==1.23.5
 plotly==6.1.2
 statsmodels==0.13.5
 mysql-connector-python==8.2.0
